@@ -1,0 +1,22 @@
+{
+  "name": "recursividad",
+  "version": "1.0.0",
+  "description": "In this module we are going to work with recursion in JavaScript",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ramixzx/recursion.git"
+  },
+  "keywords": [
+    "function"
+  ],
+  "author": "Ramiro Elias Mijalovich (ramiro.mijalovich@gmail.com // Ramixzx)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ramixzx/recursion/issues"
+  },
+  "homepage": "https://github.com/Ramixzx/recursion#readme"
+}
